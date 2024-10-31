@@ -12,19 +12,19 @@ In this repo I am collecting all the information that I have gathered while sett
 1. Follow: [Download Ubuntu Server](https://ubuntu.com/tutorials/how-to-install-ubuntu-on-your-raspberry-pi#1-overview)
 
 2. Then ssh into your Raspberry Pi using the following command:
-'''
+```bash
 ssh <username>@<Raspberry Pi’s IP address>
-'''
+```
 or 
-'''
+```bash
 ssh <username>@<hostname>
-'''
+```
 
 Note: If you get following error:
 '''
 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! 
 '''
 Then run the following command:
-'''
+```bash
 ssh-keygen -R <hostname>
-'''
+```
