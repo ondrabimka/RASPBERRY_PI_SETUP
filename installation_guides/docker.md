@@ -29,3 +29,10 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo docker run hello-world
 ```
 Voila! Docker is installed on your Raspberry Pi 4.
+
+### Docker Compose Installation
+Also docker compose is quite handy to manage multiple containers. Here are the steps to install docker compose on Raspberry Pi 4:
+
+```bash
+sudo apt  install docker-compose
+```
