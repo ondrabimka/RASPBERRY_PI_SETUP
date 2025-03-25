@@ -4,6 +4,7 @@ In this repo I am collecting all the information that I have gathered while sett
 - [x] Docker [Installation Guide](installation_guides/Install_docker.md)
 - [x] Home Assistant [Installation Guide](installation_guides/home_assistant.md)
 - [x] Jellyfin [Installation Guide](installation_guides/jellyfin.md)
+- [x] FileBrowser [Installation Guide](installation_guides/filebrowser.md)
 
 ### Pre-requisites
 - [x] Raspberry Pi 4
